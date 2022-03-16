@@ -3,5 +3,10 @@
         "title":"Test Title",
         "text":"Test text", 
         "id": "1"
+    }, 
+    {
+        "title":"Coffee Break",
+        "text":"Test text", 
+        "id": "2"
     }
 ]
